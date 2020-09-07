@@ -30,6 +30,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-multiple-languages
 
 exclude:
   - Gemfile
@@ -87,10 +88,5 @@ categories-order:
  - Integration
  - Setup
 
-# add this plugin to gems
-gems:           ['jekyll-multiple-languages']
-# The all languages used
 languages:          ['en', 'ru']
-
-# If not config, the first item of languages will be used as the default.
 language_default:   'ru'
