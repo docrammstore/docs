@@ -30,7 +30,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
-  - jekyll-multiple-languages
+  - jekyll-multiple-languages-plugin
 
 exclude:
   - Gemfile
@@ -88,5 +88,4 @@ categories-order:
  - Integration
  - Setup
 
-languages:          ['en', 'ru']
-language_default:   'ru'
+languages: ["ru", "en"]
