@@ -1,6 +1,6 @@
 ---
 title: Виды API
-category: API
+category:
 order: 1
 ---
 
