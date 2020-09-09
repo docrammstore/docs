@@ -6,14 +6,14 @@ order: 1
 
 En/[Ru](/intro/)
 
-Платформа RAMM является сигнальным сервисом, позволяющим принимать сигналы от трейдеров и копировать эти сигналы инвесторам в необходимых пропорциях, исполнять полученные сделки на заданных хедж-счетах, а также автоматически рассчитывать и списывать вознаграждения/комиссии.
+RAMM platform is a signal service designed to receive signals from traders and then copy them to investors proportionally. RAMM executes copied orders on the hedge account, automatically calculates and subtracts fees and commissions.
 
-Платформа может быть гибко настроена на поддержку разных моделей исполнения и поддерживает различную бизнес-логику, в зависимости от нужд брокера.
+Platform can be flexibly adjusted to support different execution models and different business models, depending on broker's needs.
 
-Модель обслуживания: SaaS, сервера находятся в Германии в Hetzner, при необходимости могут быть развернуты в других ДЦ за дополнительную плату.
+Servicing model: SaaS, with servers located in German Hetzner datacenter. If needed, servers can be relocated to another datacenter for an additional price.
 
-RAMM предоставляет веб-интерфейс для клиентов на доменах брокеров, например, [https://ramm.brokername.com](https://ramm.brokername.com).&nbsp;
+RAMM can offer a web-interface located on broker's domain for it's clients. For example: [https://ramm.brokername.com](https://ramm.brokername.com).&nbsp;
 
-Исходники платформы для клиентов располагаются здесь: [https://github.com/rammstore/platform/tree/master](https://github.com/rammstore/platform/tree/master)
+Source code for client's platform can be founf here: [https://github.com/rammstore/platform/tree/master](https://github.com/rammstore/platform/tree/master)
 
-Для клиентов доступно общее для всех брокеров нативное мобильное приложение RAMM под Android, основанное на клиентском API.
+All client's have access to Android mobile app, which is shared by all brokers. This RAMM app is based on Client's API.
